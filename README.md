@@ -1,4 +1,4 @@
-# Alvin Enterprice Technical Specifications
+# Alvin Enterprise Technical Specifications
 # Version: 1.0
 
 # Table of Contents
